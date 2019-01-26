@@ -1,0 +1,25 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "RabbitControl"
+theme = "kube"
+description = "A binary data-format definition to describe data values and user interface elements."
+Paginate = 4
+[Params]
+  RSSLink = "/index.xml"
+  author = "the rabbits" # add your company name
+  github = "https://github.com/rabbitControl" # add your github profile name
+  mastodon = "https://vis.social/@rabbitcontrol" # add your twitter profile
+  email = ""
+
+[[menu.main]]
+    name = "Using RabbitControl"
+    weight = -200
+    url = "/docs/"
+[[menu.main]]
+    name = "Blog"
+    weight = -150
+    url = "/blog/"
+[[menu.main]]
+    name = "Faq"
+    weight = -100
+    url = "/faq/"
