@@ -1,5 +1,5 @@
 +++
-description = "Use RabbitControl with C++"
+description = "Use RabbitControl with Typescript"
 title = "Typescript"
 draft = false
 weight = -10

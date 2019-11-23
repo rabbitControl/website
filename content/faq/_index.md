@@ -1,6 +1,6 @@
 +++
 draft= false
-title = "FAQ"
+title = "FAQs"
 description = "Asked and answered"
 +++
 
