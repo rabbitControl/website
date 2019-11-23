@@ -81,7 +81,8 @@ h1, h2, h3, h4, h5, h6 {
   height: 88px;
   border-bottom: 1px solid rgba(0, 0, 0, 0.05); }
   #top #top-brand {
-    margin-right: 52px; }
+    margin-left: 20px;
+    margin-right: 46px; }
     #top #top-brand span,
     #top #top-brand a {
       background: none;
