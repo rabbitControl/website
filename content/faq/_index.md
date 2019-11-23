@@ -4,7 +4,7 @@ title = "FAQ"
 description = "Asked and answered"
 +++
 
-## Can i use the protocol for a multi server/client scenario?
+## Can I use the protocol for a multi server/client scenario?
 The protocol itself does not specify any special functions for a scenario like this. It should still be possible to use it for such scenarios though by providing specialized server/client implementations that deal with message dispatching. While out of scope for the initial implementation this could be re-considered for a later version.
 
 ## How do data providers and data clients find each other?
