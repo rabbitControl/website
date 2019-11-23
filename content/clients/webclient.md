@@ -7,16 +7,19 @@ bref="Here is how to use the webclient"
 +++
 
 ## Launch Client  
-From any browser (desktop or mobile) open this URL:
+- From any browser (desktop or mobile) open this URL:
 https://rabbitcontrol.github.io/client
 
-Enter Host and Port of your RabbitControl server application and click Connect.
+- Enter Host and Port of your RabbitControl server application and click Connect.
 
-NOTE:
-Connecting to an unsecure websocket from secure context. You may need to adjust your browser settings!
+<div style="margin-left: 30px;">
+NOTE: Connecting to an unsecure websocket from secure context.  
+You may need to adjust your browser settings!  
+<u>Firefox:</u>  
+Please set in 'about:config': 'network.websocket.allowInsecureFromHTTPS' to 'true'.
+</div>
+<br>
 
-To allow this please set: 'network.websocket.allowInsecureFromHTTPS' in 'about:config' to 'true'.
-
-You should now see any parameter exposed from your server application, like so:
+After connecting to a rabbitControl server you should now see all exposed parameters. e.g.:
 
 {{< figure src="webclient.png" >}}
