@@ -21,6 +21,6 @@ See how to use rcp-ts
 <a href="https://github.com/rabbitControl/rcp-ts-client" target="_blank">github.com/rabbitControl/rcp-ts-client</a>
 
 ---
-Use a [client]({{< relref "/clients" >}}) to control exposed parameters.
+Use an [app]({{< relref "/apps" >}}) to control exposed parameters.
 
 &nbsp;

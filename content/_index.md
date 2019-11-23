@@ -1,5 +1,5 @@
 +++
-description = "Control parameters exposed from any application. Choose a carrot to control parameters from your phone, browser or desktop."
+description = "Control parameters exposed from any application. Choose an app to control parameters from your phone, browser or desktop."
 title = "RabbitControl - Remote Control Anything"  
 draft = false
 +++

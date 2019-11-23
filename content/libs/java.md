@@ -48,6 +48,6 @@ rabbitServer.update();
 &nbsp;
 
 ---
-Use a [client]({{< relref "/clients" >}}) to control exposed parameters.
+Use a [app]({{< relref "/apps" >}}) to control exposed parameters.
 
 &nbsp;

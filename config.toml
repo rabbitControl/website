@@ -12,14 +12,14 @@ Paginate = 4
   email = ""
 
 [[menu.main]]
-    name = "Carrots"
+    name = "Apps"
     weight = -200
-    url = "/clients/"
+    url = "/apps/"
 [[menu.main]]
-    name = "Developers"
+    name = "Libs"
     weight = -100
-    url = "/developers/"
+    url = "/libs/"
 [[menu.main]]
-    name = "FAQ"
+    name = "FAQs"
     weight = -50
     url = "/faq/"

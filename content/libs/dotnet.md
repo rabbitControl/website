@@ -10,4 +10,4 @@ Get [RCPSharp](https://www.nuget.org/packages/RCPSharp) nuget from nuget.org. So
 
 See [Demo for exposing parameters](https://github.com/rabbitControl/rcp-csharp/blob/master/demos/RCPSharpDemo/Server.cs)
 
-Use a [client]({{< relref "/clients" >}}) to control exposed parameters.
+Use a [app]({{< relref "/apps" >}}) to control exposed parameters.
