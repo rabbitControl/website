@@ -5,4 +5,4 @@ draft = false
 
 +++
 
-{{< figure src="webclient/webclient.png" >}}
+{{< figure src="rcp-hackathon-quer-6.jpg" >}}

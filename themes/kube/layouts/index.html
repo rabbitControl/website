@@ -4,15 +4,17 @@
 
 <div id="main">
   <div id="hero">
-    <h1>{{.Title}}</h1>
+    {{ .Content}}
+    <h2>{{.Title}}</h2>
     <p>{{.Description}}</p>
   </div>
+
   <div id="action-buttons">
-    <a class="button outline big" href="https://github.com/rabbitControl" onclick="_gaq.push(['_trackEvent', 'kube', 'github']);">View on Github</a>
-    <p>Contribute to RabbitControl</p>
+    <a class="button outline big" href="https://github.com/jeblister/kube" onclick="_gaq.push(['_trackEvent', 'kube', 'github']);">View on Github</a>
   </div>
-  {{ .Content}}
-</div>
+  <div>
+
+  </div>
 </div>
 {{ end }}
 {{ define "footer"}} {{ partial "footer" .}} {{end}}
