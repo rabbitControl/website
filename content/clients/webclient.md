@@ -1,6 +1,6 @@
 +++
 description = "Use RabbitControl with the webclient"
-title = "webclient"
+title = "Webclient"
 draft = false
 weight = -10
 bref="Here is how to use the webclient"
