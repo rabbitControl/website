@@ -6,8 +6,8 @@
     </div>
   </div>
   <div class="hide-sm" id="top">
-    <div id="top-brand">
-      <a href="/" title="home">{{ .Site.Title }}</a>
+    <div id="top-brand" style="margin-left: 20px">
+      <a href="/"><img src="/carrot-sketch-c-trans.png" width="50"></a>
     </div>
     <nav id="top-nav-main">
       <ul>
@@ -17,13 +17,13 @@
     {{end}}
       </ul>
     </nav>
-    <nav id="top-nav-extra"> 
+    <nav id="top-nav-extra">
       <ul>
-        {{ range .Site.Menus.extra }} 
+        {{ range .Site.Menus.extra }}
           <li>
             <a href="{{ .Permalink }}">{{ .Name }}</a>
           </li>
-        {{ end }}  
+        {{ end }}
       </ul>
     </nav>
   </div>
