@@ -12,18 +12,14 @@ Paginate = 4
   email = ""
 
 [[menu.main]]
-    name = "Using RabbitControl"
+    name = "Carrots"
     weight = -200
-    url = "/docs/"
-[[menu.main]]
-    name = "GUI Clients"
-    weight = -190
     url = "/clients/"
 [[menu.main]]
-    name = "Blog"
-    weight = -150
-    url = "/blog/"
+    name = "Developers"
+    weight = -100
+    url = "/developers/"
 [[menu.main]]
     name = "Faq"
-    weight = -100
+    weight = -50
     url = "/faq/"
