@@ -17,6 +17,7 @@ bref="RCP model and client"
 ### Example
 
 See how to use rcp-ts  
+<a href="https://github.com/rabbitControl/rcp-ts-react-example" target="_blank">github.com/rabbitControl/rcp-ts-react-example</a>  
 <a href="https://github.com/rabbitControl/rcp-ts-client" target="_blank">github.com/rabbitControl/rcp-ts-client</a>
 
 ---
