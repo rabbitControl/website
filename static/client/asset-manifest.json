@@ -1,16 +1,16 @@
 {
   "main.css": "/client/static/css/main.46421d9b.chunk.css",
-  "main.js": "/client/static/js/main.225fbb4e.chunk.js",
-  "main.js.map": "/client/static/js/main.225fbb4e.chunk.js.map",
+  "main.js": "/client/static/js/main.3cccd8a5.chunk.js",
+  "main.js.map": "/client/static/js/main.3cccd8a5.chunk.js.map",
   "static/css/1.69d2d30a.chunk.css": "/client/static/css/1.69d2d30a.chunk.css",
   "static/js/1.83708912.chunk.js": "/client/static/js/1.83708912.chunk.js",
   "static/js/1.83708912.chunk.js.map": "/client/static/js/1.83708912.chunk.js.map",
   "runtime~main.js": "/client/static/js/runtime~main.dad60270.js",
   "runtime~main.js.map": "/client/static/js/runtime~main.dad60270.js.map",
-  "static/media/blueprint-icons.css": "/client/static/media/icons-16.5dbae370.eot",
+  "static/media/blueprint-icons.css": "/client/static/media/icons-20.0ec8ac2b.ttf",
   "static/css/main.46421d9b.chunk.css.map": "/client/static/css/main.46421d9b.chunk.css.map",
   "static/css/1.69d2d30a.chunk.css.map": "/client/static/css/1.69d2d30a.chunk.css.map",
   "index.html": "/client/index.html",
-  "precache-manifest.87d562b8cc53c5d9dae40dfd3e7ac616.js": "/client/precache-manifest.87d562b8cc53c5d9dae40dfd3e7ac616.js",
+  "precache-manifest.5f990c66101e4eb469c18d66df4be420.js": "/client/precache-manifest.5f990c66101e4eb469c18d66df4be420.js",
   "service-worker.js": "/client/service-worker.js"
 }
