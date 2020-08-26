@@ -7,7 +7,7 @@ bref="RCP model"
 +++
 
 
-Please contact us if you are interested in using RabbitControl in C.
+Please [contact](/contact) us if you are interested in using RabbitControl in C.
 
 ---
 Use a [app]({{< relref "/apps" >}}) to control exposed parameters.

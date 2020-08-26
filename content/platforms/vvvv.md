@@ -6,6 +6,8 @@ weight = -10
 bref="Here is how to expose parameters from vvvv"
 +++
 
+[![VVVV-beta](/logos/vvvv.png#center)](https://vvvv.org/)
+
 ## vvvv 50beta >= 39
 
 These versions ship with support out of the box. Simply create a node called Rabbit (RCP) and configure its Host and Port inputs if necessary. Now you can already connect to this server using an [app]({{< relref "/apps" >}}).
