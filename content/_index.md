@@ -12,5 +12,5 @@ Currently available for:\
 \
 [![openrndr](/logos/openrndr.png)](/platforms/openrndr/)\
 \
-[![Touch Designer](/logos/touchdesigner.png)](/platforms/touchdesigner/)
+[![TouchDesigner](/logos/touchdesigner.png)](/platforms/touchdesigner/)
 <!-- ![Fugio](/logos/fugio.png) -->

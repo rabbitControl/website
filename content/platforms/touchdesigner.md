@@ -1,14 +1,14 @@
 +++
-description = "Use RabbitControl with Touch Designer"
-title = "Touch Designer"
+description = "Use RabbitControl with TouchDesigner"
+title = "TouchDesigner"
 draft = false
 weight = -10
-bref="Using rcp in Touch Designer"
+bref="Using rcp in TouchDesigner"
 +++
 
-[![Touch Designer](/logos/touchdesigner.png#center)](https://derivative.ca/product)
+[![TouchDesigner](/logos/touchdesigner.png#center)](https://derivative.ca/product)
 
-Read [this](https://derivative.ca/community-post/asset/rabbitcontrol-remote-control-anything/63238) blog post to learn how to use rabbitControl with Touch Designer.
+Read [this](https://derivative.ca/community-post/asset/rabbitcontrol-remote-control-anything/63238) blog post to learn how to use rabbitControl with TouchDesigner.
 
 Get RCP_TD.tox [here](https://github.com/wuestenarchitekten/RCP-TD).
 
