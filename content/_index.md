@@ -10,5 +10,7 @@ Currently available for:\
 \
 [![VVVV-beta](/logos/vvvv.png)](/platforms/vvvv/)\
 \
-[![openrndr](/logos/openrndr.png)](/platforms/openrndr/)
+[![openrndr](/logos/openrndr.png)](/platforms/openrndr/)\
+\
+[![Touch Designer](/logos/touchdesigner.png)](/platforms/touchdesigner/)
 <!-- ![Fugio](/logos/fugio.png) -->
