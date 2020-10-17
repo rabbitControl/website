@@ -6,3 +6,4 @@ hugo server
 
 # build
 hugo -D
+hugo --minify
