@@ -12,7 +12,7 @@ Paginate = 4
   email = ""
 
 [[menu.main]]
-    name = "Apps"
+    name = "Applications"
     weight = -200
     url = "/apps/"
 [[menu.main]]
