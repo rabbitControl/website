@@ -23,13 +23,13 @@ jobs:
       - name: Build
         run: hugo --minify
 
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          personal_token: ${{ secrets.PERSONAL_TOKEN }}
-          external_repository: rabbitcontrol/rabbitcontrol.github.io
-          publish_dir: ./public
-          publish_branch: master  # deploying branch
+      # - name: Deploy
+      #   uses: peaceiris/actions-gh-pages@v3
+      #   with:
+      #     personal_token: ${{ secrets.PERSONAL_TOKEN }}
+      #     external_repository: rabbitcontrol/rabbitcontrol.github.io
+      #     publish_dir: ./public
+      #     publish_branch: master  # deploying branch
 
       #deploy to rabbitcontrol.cc
       - name: FTP Deploy
@@ -38,5 +38,5 @@ jobs:
           ftp-server: ftp://rabbitcontrol.cc/www/test/
           ftp-username: ${{ secrets.RABBITCONTROL_CC_FTP_U }}
           ftp-password: ${{ secrets.RABBITCONTROL_CC_FTP_P }}
-          local-dir: ./public/
+          local-dir: ./public
           #git-ftp-args: --remote-root www/test/
