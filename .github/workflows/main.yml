@@ -31,15 +31,6 @@ jobs:
       #     publish_dir: ./public
       #     publish_branch: master  # deploying branch
 
-      #deploy to rabbitcontrol.cc
-      # - name: FTP Deploy
-      #   uses: SamKirkland/FTP-Deploy-Action@3.1.1
-      #   with:
-      #     ftp-server: ftps://rabbitcontrol.cc/www/test/
-      #     ftp-username: ${{ secrets.RABBITCONTROL_CC_FTP_U }}
-      #     ftp-password: ${{ secrets.RABBITCONTROL_CC_FTP_P }}
-      #     local-dir: ./public
-      #     git-ftp-args: --remote-root www/test/ --insecure
       - name: FTP Deploy
         uses: sebastianpopp/ftp-action@releases/v2
         with:
@@ -47,4 +38,4 @@ jobs:
           user: ${{ secrets.RABBITCONTROL_CC_FTP_U }}
           password: ${{ secrets.RABBITCONTROL_CC_FTP_P }}
           localDir: "public"
-          remoteDir: "www/test"
+          remoteDir: "www"

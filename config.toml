@@ -16,7 +16,7 @@ Paginate = 4
     weight = -200
     url = "/apps/"
 [[menu.main]]
-    name = "Libs"
+    name = "Libraries"
     weight = -100
     url = "/libs/"
 [[menu.main]]
