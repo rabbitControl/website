@@ -35,7 +35,8 @@ jobs:
       - name: FTP Deploy
         uses: SamKirkland/FTP-Deploy-Action@3.1.1
         with:
-          ftp-server: ftps://rabbitcontrol.cc/www/test/
+          ftp-server: ftps://193.170.194.11
           ftp-username: ${{ secrets.RABBITCONTROL_CC_FTP_U }}
           ftp-password: ${{ secrets.RABBITCONTROL_CC_FTP_P }}
           local-dir: ./public/
+          git-ftp-args: --remote-root www/test/
