@@ -38,4 +38,4 @@ jobs:
           ftp-server: ftps://rabbitcontrol.cc/www/test/
           ftp-username: ${{ secrets.RABBITCONTROL_CC_FTP_U }}
           ftp-password: ${{ secrets.RABBITCONTROL_CC_FTP_P }}
-          local-dir: ./public/*
+          local-dir: ./public/
