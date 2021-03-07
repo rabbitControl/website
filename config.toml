@@ -31,3 +31,8 @@ Paginate = 4
     name = "Contact"
     weight = 50
     url = "/contact/"
+[[menu.main]]
+    hrefTargetBlank = false
+    name = "Rabbithole"
+    weight = 100
+    url = "https://rabbithole.rabbitcontrol.cc"
