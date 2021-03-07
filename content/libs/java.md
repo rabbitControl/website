@@ -13,15 +13,15 @@ bref="RCP model and transporter"
 maven:
 ```
 <dependency>
-  <groupId>io.github.rabbitcontrol</groupId>
+  <groupId>cc.rabbitcontrol</groupId>
   <artifactId>rcp</artifactId>
-  <version>0.2.7</version>
+  <version>0.3.26</version>
 </dependency>
 ```
 
 gradle:
 ```
-implementation 'io.github.rabbitcontrol:rcp:0.2.7'
+implementation 'cc.rabbitcontrol:rcp:0.3.26'
 ```
 
 rcp-java supports java >= 1.6
