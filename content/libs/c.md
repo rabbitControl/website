@@ -3,11 +3,13 @@ description = "Use RabbitControl with C"
 title = "C"
 draft = false
 weight = -10
-bref="RCP model"
+bref="RCP for C"
 +++
 
 
-Please [contact](/contact) us if you are interested in using RabbitControl in C.
+### Source
+rcp written in c can be found here:\
+[https://github.com/rabbitControl/rcp-c](https://github.com/rabbitControl/rcp-c).
 
 ---
 Use a [app]({{< relref "/apps" >}}) to control exposed parameters.

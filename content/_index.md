@@ -12,5 +12,9 @@ Currently available for:\
 \
 [![openrndr](/logos/openrndr.png)](/platforms/openrndr/)\
 \
-[![TouchDesigner](/logos/touchdesigner.png)](/platforms/touchdesigner/)
+[![TouchDesigner](/logos/touchdesigner.png)](/platforms/touchdesigner/)\
+\
+[![Pd](/logos/pd_logo.png)](/platforms/pd_max/)\
+\
+[![Max](/logos/max.jpg)](/platforms/pd_max/)    
 <!-- ![Fugio](/logos/fugio.png) -->
