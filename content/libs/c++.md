@@ -8,7 +8,7 @@ bref="RCP model"
 
 
 ### Source
-<a href="https://github.com/rabbitControl/rcp-cpp" target="_blank">github.com/rabbitControl/rcp-cpp</a>
+[https://github.com/rabbitControl/rcp-cpp](https://github.com/rabbitControl/rcp-cpp)
 
 ---
 Use a [app]({{< relref "/apps" >}}) to control exposed parameters.

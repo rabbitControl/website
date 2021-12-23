@@ -12,13 +12,13 @@ bref="RCP model and client"
 `npm install --save rabbitcontrol`
 
 ### Source
-<a href="https://github.com/rabbitControl/rcp-ts" target="_blank">github.com/rabbitControl/rcp-ts</a>
+[https://github.com/rabbitControl/rcp-ts](https://github.com/rabbitControl/rcp-ts)
 
 ### Example
 
 See how to use rcp-ts  
-<a href="https://github.com/rabbitControl/rcp-ts-react-example" target="_blank">github.com/rabbitControl/rcp-ts-react-example</a>  
-<a href="https://github.com/rabbitControl/rcp-ts-client" target="_blank">github.com/rabbitControl/rcp-ts-client</a>
+[https://github.com/rabbitControl/rcp-ts-react-example](https://github.com/rabbitControl/rcp-ts-react-example)\
+[https://github.com/rabbitControl/rcp-ts-client](https://github.com/rabbitControl/rcp-ts-client)
 
 ---
 Use an [app]({{< relref "/apps" >}}) to control exposed parameters.
