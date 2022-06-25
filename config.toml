@@ -12,6 +12,10 @@ Paginate = 4
   email = ""
 
 [[menu.main]]
+    name = "Available for"
+    weight = -300
+    url = "/platforms/"
+[[menu.main]]
     name = "Applications"
     weight = -200
     url = "/apps/"
@@ -23,10 +27,6 @@ Paginate = 4
     name = "FAQs"
     weight = -50
     url = "/faq/"
-[[menu.main]]
-    name = "Available for"
-    weight = 40
-    url = "/platforms/"
 [[menu.main]]
     name = "Contact"
     weight = 50

@@ -4,7 +4,7 @@ description = "RabbitControl is a protocol for remote-control.\nControl paramete
 draft = false
 +++
 
-Currently available for:\
+Available for:\
 \
 [![openFrameworks](/logos/of.png)](/platforms/ofxrabbitcontrol/)\
 \
