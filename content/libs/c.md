@@ -1,15 +1,13 @@
 +++
-description = "Use RabbitControl with C"
 title = "C"
-draft = false
+description = "Use RabbitControl with C"
+draft = true
 weight = -10
 bref="RCP for C"
 +++
 
 
-### Source
-rcp written in c can be found here:\
-[https://github.com/rabbitControl/rcp-c](https://github.com/rabbitControl/rcp-c).
+Coming soon.
 
 ---
 Use a [app]({{< relref "/apps" >}}) to control exposed parameters.

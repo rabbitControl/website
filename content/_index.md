@@ -1,10 +1,10 @@
 +++
-title = "RabbitControl - Remote Control Anything"  
-description = "RabbitControl is a protocol for remote-control.\nControl parameters exposed from any application. Choose an app to control parameters from your phone, browser or desktop."
+title = "Remote Control Anything"  
+description = "RabbitControl is a protocol for remote-control - Control parameters exposed from any application."
 draft = false
 +++
 
-Available for:\
+RabbitControl is available for:\
 \
 [![openFrameworks](/logos/of.png)](/platforms/ofxrabbitcontrol/)\
 \
