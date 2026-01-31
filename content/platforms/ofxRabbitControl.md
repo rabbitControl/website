@@ -1,9 +1,9 @@
 +++
 description = "Use RabbitControl with openFrameworks"
-title = "ofxRabbitControl"
+title = "openFrameworks"
 draft = false
 weight = -10
-bref="Using rcp in openFrameworks"
+bref="RabbitControl in openFrameworks"
 +++
 
 [![openFrameworks](/logos/of.png#center)](https://openframeworks.cc/)

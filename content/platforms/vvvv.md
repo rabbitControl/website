@@ -3,7 +3,7 @@ description = "Use RabbitControl with vvvv"
 title = "vvvv"
 draft = false
 weight = -10
-bref="Here is how to expose parameters from vvvv"
+bref="RabbitControl in vvvv"
 +++
 
 [![VVVV-beta](/logos/vvvv.png#center)](https://vvvv.org/)

@@ -3,7 +3,7 @@ description = "Use RabbitControl with Pure Data"
 title = "Pure Data"
 draft = false
 weight = -10
-bref="Using RabbitControl in Pure Data"
+bref="RabbitControl in Pure Data"
 +++
 
 [![Pd](/logos/pd_logo_100.png#center)](http://puredata.info/downloads/pure-data)

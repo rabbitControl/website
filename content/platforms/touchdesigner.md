@@ -3,7 +3,7 @@ description = "Use RabbitControl with TouchDesigner"
 title = "TouchDesigner"
 draft = false
 weight = -10
-bref="Using rcp in TouchDesigner"
+bref="RabbitControl in TouchDesigner"
 +++
 
 [![TouchDesigner](/logos/touchdesigner.png#center)](https://derivative.ca/product)

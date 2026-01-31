@@ -3,7 +3,7 @@ description = "Use RabbitControl with openrndr"
 title = "openrndr"
 draft = false
 weight = -10
-bref="Using rcp in openrndr"
+bref="RabbitControl in openrndr"
 +++
 
 [![openrndr](/logos/openrndr.png#center)](https://openrndr.org/)

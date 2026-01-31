@@ -8,7 +8,7 @@ bref="RabbitControl in and Max/MSP"
 
 [![Pd](/logos/max.jpg#center)](https://cycling74.com/)
 
-**Pd users please use the new external [pure-rabbit](/platforms/pd/)!**
+**Pd users please use the [new external](/platforms/pd/)!**
 
 
 You can download precompiled binaries here:\
