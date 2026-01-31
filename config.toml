@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "RabbitControl"
 theme = "kube"
 description = "A binary data-format definition to describe data values and user interface elements."
-Paginate = 4
+pagerSize = 4
 [Params]
   RSSLink = "/index.xml"
   author = "the rabbits" # add your company name
