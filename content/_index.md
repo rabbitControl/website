@@ -14,7 +14,7 @@ RabbitControl is available for:\
 \
 [![TouchDesigner](/logos/touchdesigner.png)](/platforms/touchdesigner/)\
 \
-[![Pd](/logos/pd_logo.png)](/platforms/pd_max/)\
+[![Pd](/logos/pd_logo_100.png)](/platforms/pd/)\
 \
 [![Max](/logos/max.jpg)](/platforms/pd_max/)    
 <!-- ![Fugio](/logos/fugio.png) -->
